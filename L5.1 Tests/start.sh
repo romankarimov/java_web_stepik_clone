@@ -1,1 +1,1 @@
-java -jar GoEuroTest.jar Berlin
+java -jar GoEuroTest.jar London
